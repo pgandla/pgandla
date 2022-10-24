@@ -1,5 +1,5 @@
 # 💫 About Me:
-Serverless<br>AWS<br>Containers<br>Tech Lead<br>Cats
+Serverless<br>AWS<br>APIs<br>Tech Lead<br>Reading<br>Cats<br>Hiking
 
 
 # 💻 Tech Stack:
