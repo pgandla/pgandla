@@ -1,6 +1,6 @@
 # 💫 About Me:
 Its all about creating value in a short time by using whatever skills, tools, frameworks and resources.
-# Goot at
+# Good at
 Serverless<br>AWS<br>APIs<br>Tech Lead<br>Reading<br>Dogs<br>Hiking
 
 
